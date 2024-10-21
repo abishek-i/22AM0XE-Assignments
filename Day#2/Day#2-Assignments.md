@@ -5,12 +5,9 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | [Docker Desktop] Install Docker Desktop and verify the command “docker version” |![image](https://github.com/user-attachments/assets/3e711d13-2ac7-40cd-8fbc-df9fa13ade63)
-
-| <ul><li>- [ ] </li></ul> | [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version” |![image](https://github.com/user-attachments/assets/157c99a1-0e46-4066-b812-a925ed50a50e)
-
-| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story |![image](https://github.com/user-attachments/assets/c66080cf-10ba-46d7-96b9-14363f95142b)
-
+| <ul><li>- [ ] </li></ul> | [Docker Desktop] Install Docker Desktop and verify the command “docker version” |
+| <ul><li>- [ ] </li></ul> | [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version” |
+| <ul><li>- [ ] </li></ul> | [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story |
 | <ul><li>- [ ] </li></ul> | [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number |
 | <ul><li>- [ ] </li></ul> | [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check. |
 | <ul><li>- [ ] </li></ul> | [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.  |
@@ -29,17 +26,17 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/3e711d13-2ac7-40cd-8fbc-df9fa13ade63)
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/157c99a1-0e46-4066-b812-a925ed50a50e)
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/c66080cf-10ba-46d7-96b9-14363f95142b)
 
 ***
 
