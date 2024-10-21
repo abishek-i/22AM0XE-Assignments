@@ -55,10 +55,11 @@
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
 - Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
+  - Logo: Place the logo here ![image](https://github.com/user-attachments/assets/f809fab9-7ccd-4459-9c15-e71cb98d79a6)
+
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+> YouTube uses Google Cloud Platform (GCP) and Bigtable
 
 ***
 
