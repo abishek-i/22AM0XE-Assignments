@@ -32,25 +32,22 @@
 
 ***
 
-#### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+
+#### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
+![image](https://github.com/user-attachments/assets/fa0c02de-44a5-4cf2-aedd-77cc740e3faf)
 
 ***
-
-#### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
-
+#### #3 Provide a basic example of using Google Colab by following the given steps
+> - Link - 
+> - Create a new Google Colab notebook - 
+> - Write Python code to print "Hello, World!" in the notebook - 
+> - Import the NumPy library and create a 2x2 matrix, then print it. - 
+> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+> - 
+> - 
 ***
 
-#### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
 
-***
-
-#### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
-
-***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - Youtube
@@ -69,6 +66,6 @@
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/2d53365e-c59d-4652-b69c-c826948f3556)
 
 ***
